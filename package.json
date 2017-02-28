@@ -8,10 +8,10 @@
     "url": "git://github.com/peprberlin/nodejs-mongodb"
   },
   "dependencies": {
-    "mongodb": "~2.0"
+    "mongodb": "~2.2"
   },
   "author": "peprberlin (Robert Antonischki)",
-  "license": "none",
+  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/peprberlin/nodejs-mongodb/issues"
   },
