@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "This is used as test for nodjs and mongodb ",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/peprberlin/nodejs-mongodb"
+  },
+  "dependencies": {
+    "mongodb": "~2.0"
+  },
+  "author": "peprberlin (Robert Antonischki)",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/peprberlin/nodejs-mongodb/issues"
+  },
+  "homepage": "https://github.com/peprberlin/nodejs-mongodb"
+}
